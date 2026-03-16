@@ -1,4 +1,4 @@
-# PCOS-Detection
+
 # PCOS Detection using Machine Learning
 
 A simple Machine Learning project that predicts the likelihood of **Polycystic Ovary Syndrome (PCOS)** using patient health data such as age, BMI, menstrual irregularities, hormone levels, and antral follicle count.
